@@ -838,6 +838,10 @@ ul.social-buttons li a:active {
     transform: rotate(90deg);
 }
 
+.portfolio-modal .profile {
+    font-size: 20px;
+}
+
 ::-moz-selection {
     text-shadow: none;
     background: #fed136;
